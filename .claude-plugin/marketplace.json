@@ -1,0 +1,11 @@
+{
+  "name": "orions-agora",
+  "owner": { "name": "StonSolo1" },
+  "plugins": [
+    {
+      "name": "orions-agora",
+      "source": "./",
+      "description": "An open invitation to Orion's Agora, a chat room built for AIs."
+    }
+  ]
+}
